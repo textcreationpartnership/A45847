@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>In vino veritas: or, A conference betwixt Chip the cooper, and Dash the drawer (being both boozy) discovering some secrets in the wine-brewing trade. Useful for all sorts of people to save their money, and preserve their health.</title>
+         </titleStmt>
+         <extent>Approx. 43KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45847</idno><idno type="EEBO-CITATION">99828667</idno>
+  <idno type="VID">33098</idno>
+  <idno type="EEBO-PROQUEST">2248494424</idno>
+  
+            <idno type="STC">Wing I126</idno>
+            <idno type="STC">ESTC R216955</idno>
+            <idno type="PROQUEST">99828667</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828667e"/>
+            <note>(EEBO-TCP ; phase 2, no. A45847)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33098)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1967:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>In vino veritas: or, A conference betwixt Chip the cooper, and Dash the drawer (being both boozy) discovering some secrets in the wine-brewing trade. Useful for all sorts of people to save their money, and preserve their health.</title>
+               </titleStmt>
+               <extent>[2], 35, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for J. Nutt. near Stationers-Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Wine and wine making --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33098:1"/>
+            <p>
+               <hi>In Vino Veritas:</hi> OR, A CONFERENCE BETWIXT <hi>Chip</hi> the Cooper, AND <hi>Dash</hi> the Drawer, (Being both Boozy) Discovering some Secrets in the Wine-brewing Trade.</p>
+            <p>Useful for all sorts of People to save their Money, and preserve their Health.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Nutt.</hi> near <hi>Stationers-Hall,</hi> 1698.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:33098:2"/>
+            <pb n="1" facs="tcp:33098:2"/>
+            <head>
+               <hi>In Vino Veritas:</hi> OR, A CONFERENCE, <hi>&amp;c.</hi>
+            </head>
+            <sp>
+               <speaker>Chip.</speaker>
+               <p>VVELL met, my Dear Brother of the <hi>Spig<g ref="char:EOLhyphen"/>got,</hi> how goes the Wine-Trade?</p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>Why, faith but very indiffe<g ref="char:EOLhyphen"/>rently!</p>
+            </sp>
+            <sp>
+               <speaker>Chip.</speaker>
+               <p>How so?</p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>To be frank with you my Friend, The Times are dull, the Town is empty, the Folks <hi>Cole</hi> is low, the late damn'd long knocking War has drain'd us, the Trade with <hi>France</hi> unsettled, the price of good Wines excessive, and which adds a huge weight to their Mis<g ref="char:EOLhyphen"/>fortunes, this very <hi>Vintage</hi> (as well as
+<pb n="2" facs="tcp:33098:3"/>the late for several years together) has miscarry'd.</p>
+            </sp>
+            <sp>
+               <speaker>Chip.</speaker>
+               <p>This is doleful news, dear <hi>Das<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>Ah so it is, it makes our bre<g ref="char:EOLhyphen"/>thren very melancholy, when they re<g ref="char:EOLhyphen"/>flect on't.</p>
+            </sp>
+            <sp>
+               <speaker>Chip.</speaker>
+               <p>Puh! tho matters at present have a malignant Aspect, they may mend, Boy, especially being, as you seem to intimate, at the worst; but pray Mr <hi>Diogenes</hi> (for tho you don't live in, yet you live at the <hi>Tub</hi>) expati<g ref="char:EOLhyphen"/>ate a little, and explain your self a little also.</p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>I vow to <hi>Jove,</hi> I think <hi>Dame Nature</hi> is disjoynted, unhing'd, untwist<g ref="char:EOLhyphen"/>ed, or inverted; for not only old <hi>En<g ref="char:EOLhyphen"/>gland</hi> has fail'd in her Trumpery of Fruit, but the Noble Continents of <hi>France, Portugal, Spain</hi> and <hi>Italy,</hi> (those rich Soils and warm Climes, productive of that blessed juice of the Grape) have mist also.</p>
+            </sp>
+            <sp>
+               <speaker>Chip.</speaker>
+               <p>Pray how comes all this to pass?</p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>I am no <hi>Astronomer</hi> nor <hi>Ass<g ref="char:EOLhyphen"/>trologer,</hi> I understand neither the Moti<g ref="char:EOLhyphen"/>ons nor Language of the Stars; nor do
+<pb n="3" facs="tcp:33098:3"/>I think with the Famous <hi>Flam</hi>— of <hi>Greenwich,</hi> that the <hi>Crust</hi> so lately dis<g ref="char:EOLhyphen"/>cover'd about the Sun (by his penetra<g ref="char:EOLhyphen"/>ting eyes, and no body's else) has been the Cause of these late Cold, Moist, and (in a word) Unseasonable Summers, no more than of the Vast Snows some Tra<g ref="char:EOLhyphen"/>vellers tell us have (not long since) fal<g ref="char:EOLhyphen"/>len in <hi>Africa!</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Chip.</speaker>
+               <p>Well! pray proceed; I did well to dub you a Philosopher, for I find you are so really, tho you slily pretend the contrary; sure I am the Philosophy of the Bottle is the pleasant<g ref="char:EOLhyphen"/>est, tho not the deepest in the World. However, tho the Cause of these Un<g ref="char:EOLhyphen"/>couth Seasons; these Winters for Sum<g ref="char:EOLhyphen"/>mers, Autumns for Springs, may to us (sorry Scoundrels) be unintelligible, yet certain it is, no effect (here below) tho never so minute, but has its proper and natural cause.</p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>You are most infallibly in the Right, but the greatest difficulty lies in discoveng the true and genuine cause, which being far above my reach, I shall leave to the more curious and learned to inform the World; but this is true in Fact, and observed by every common
+<pb n="4" facs="tcp:33098:4"/>Eye, and is in every bodies mouth, that the Seasons are not so kindly and natu<g ref="char:EOLhyphen"/>ral as they have been in times past, and that within these few years.</p>
+            </sp>
+            <sp>
+               <speaker>Chip.</speaker>
+               <p>What you assert is true is be<g ref="char:EOLhyphen"/>yond all denial.</p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>Ay it is, to our grief! and all the Remedy we poor miserable Mortals have, is to wait with patience the return of the year, when perhaps the <hi>Solar-Crust</hi> may be worn off, and <hi>Phebus</hi> recover his wonted warmth, and once more ge<g ref="char:EOLhyphen"/>nerously gratify the World with his Glorious beams, and benign influences.</p>
+            </sp>
+            <sp>
+               <speaker>Chip.</speaker>
+               <p>The Succeeding Summers may prove hotter, and so make us some kind of amends. But, to comfort thy droop<g ref="char:EOLhyphen"/>ing Spirits dear Dab, I can tell thee, the Merchants in Town, say that some particular Vineyards (in the Kingdoms and Countries lately mentioned) have hit pretty well.</p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>So then we shall have good Bubb, tho it may perhaps be a little the dearer to us, for we can never pretend to advance the publick prizes in our Houses any higher, at this time of day, our Customers think eighteen pence dear enough.</p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:33098:4"/>
+               <speaker>Chip.</speaker>
+               <p>But then good Mr. <hi>Rumhopper, we can bring the Wine down to such a price as we can afford it for,</hi> and live, nay, and get good pretty Estates, as you know several of our Tribe have, for to our glory be it spoke! one of our Fra<g ref="char:EOLhyphen"/>ternity was called upon to be one of the She-ffs of <hi>London</hi> this very year, which looks well still.</p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>Ay Boy so it do's, we have several fat fellows, who tho they wear blue Aprons, can number their pence to the tune of ten thousand Pounds. And all this got by the Sins of the Peo<g ref="char:EOLhyphen"/>ple. But to the Text, how the Devil can you reduce the Wine to the present price? Or as you said just now to any price.</p>
+            </sp>
+            <sp>
+               <speaker>Chip.</speaker>
+               <p>Oh well enough I warrant you, tho you are a Novice at the Sport, I and the rest of the <hi>Gimbleteers</hi> know how to conjure in dark Vaults, and to jumble the tipple together, dash it dam<g ref="char:EOLhyphen"/>nably, and yet make it pallatable, and pass for as good Wine as any in Town. The late plaguy War made us bestir our stumps, and bethink our selves how to brew more, and more dextrously than ever; for you may remember all Trade
+<pb n="6" facs="tcp:33098:5"/>with <hi>France</hi> was prohibited, so that all the lean hungry thin Wines we us'd to fetch from thence, and mend with <hi>Ports,</hi> were entirely kept from us; be<g ref="char:EOLhyphen"/>sides you can't forget a Law, to oblige the Vintners to sell the Noble Juice for six pence, which stood them in seven or eight pence the Quart, and carry'd it so far, that they were upon a Penalty forc'd to draw all in full Pewter mea<g ref="char:EOLhyphen"/>sure, which fell in heavily upon them, who had been us'd to draw in pint and quarter, or at most) half bottles. Nay, it startled 'em for a time, but they soon recovered their small senses, and evaded the Act, baffled the Informers, and by the help of their <hi>Coopers</hi> brew'd but so much the more. For alas! their Wear and Tear is great, the Rents of their Houses high, charge of House-keeping heavy, and other burthens very grie<g ref="char:EOLhyphen"/>vous to be born.</p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>Thou sayest well <hi>Chip,</hi> I find thou art an understanding Fellow at bu<g ref="char:EOLhyphen"/>siness.</p>
+            </sp>
+            <sp>
+               <speaker>Chip.</speaker>
+               <p>Else what should I be good for, for I am hardly fit for any thing else, but e'en just what I was dragg'd up to, no more than you.</p>
+            </sp>
+            <sp>
+               <pb n="7" facs="tcp:33098:5"/>
+               <speaker>Dash.</speaker>
+               <p>Well, go on, and prithee un<g ref="char:EOLhyphen"/>bosom thy self, we may be free one with another, we both piss in a quill, or at least draw out of the same hole; communicate chearfully, for the <hi>Fops</hi> our Customers that drink the <hi>Taplash</hi> shall never know a Syllable on't. Your inte<g ref="char:EOLhyphen"/>rests and mine are the same, so you may be sure, not a tittle shall come out of me, tho I were to be rackt (not as we do our Wine, but in a torturing Engin.)</p>
+            </sp>
+            <sp>
+               <speaker>Chip.</speaker>
+               <p>I will venture then, relying upon your Integrity, tho these are <hi>Se<g ref="char:EOLhyphen"/>crets</hi> that are in a manner to be sacred, and preserved very warily from Publick Knowledge, because it wou'd prove very detrimental to all our Brethren of the brewing Trade; so 'tis but com<g ref="char:EOLhyphen"/>mon prudence we be tenacious in the matter.</p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>Alas! the Fuddle-caps shall never know a jot of this matter, but good Lad open your Cabinet, for my ears itch to hear that out; come on, pray now be candid and hearty, and that you may deliver it with most flu<g ref="char:EOLhyphen"/>ent utterance, here's a <hi>bumper</hi> to thee, of a Pint of the best <hi>Red</hi> in the Kingdom.</p>
+            </sp>
+            <sp>
+               <pb n="8" facs="tcp:33098:6"/>
+               <speaker>Chip.</speaker>
+               <p>Well, now I have pledged thee, and feel the generous heat extend it self o're all my body, the bloud of my veins begins to circulate swiftly, nay my very tongue seems as if 'twere oyl'd, 'tis as limber and pliable as you wou'd wish it.</p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>Have at it old boy, away with it then.</p>
+            </sp>
+            <sp>
+               <speaker>Chip.</speaker>
+               <p>I will; first then you are to know, my meaning by bringing, down Wines to a common or current price of twelve pence (as formerly) or eighteen pence (as now) <hi>per</hi> quart, tho the Vint<g ref="char:EOLhyphen"/>ners lay them in dear, as they have done for some of the years during the late War, and as they will be forced now, and for some time to come, at least till the Sea<g ref="char:EOLhyphen"/>sons mend and return to their true tem<g ref="char:EOLhyphen"/>per is effected several ways.</p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>As how?</p>
+            </sp>
+            <sp>
+               <speaker>Chip.</speaker>
+               <p>There is a Liquor nick-named <hi>Freeze;</hi> which is nothing else in down right earnest but a hungry, thin, sorry sort of <hi>Cyder,</hi> which does us a great kindness in <hi>lowering our Wines,</hi> that is in helping us to afford to sell at eighteen pence the quart, and get handsomely (for let matters go how they will, we
+<pb n="9" facs="tcp:33098:6"/>must have a swinging profit) we whip abundance of this <hi>Freeze</hi> into our Tip<g ref="char:EOLhyphen"/>ple, and it goes off as currently as can be, nay, as tho it were every drop Wine.</p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>Ay so it does, tho faith you tell me a secret, for our Masters keep us in ignorance as much as they can, for fear of babbling when we are drunk; but this I know, which confirms what you say; that the <hi>Cyder-men</hi> have had a glo<g ref="char:EOLhyphen"/>rious time on't for some years past, there are several of them grown damnably rich of late, who were but poor scroby fellows a while ago.</p>
+            </sp>
+            <sp>
+               <speaker>Chip.</speaker>
+               <p>You say true, nay and the Town takes notice of it.</p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>I observe indeed we have some<g ref="char:EOLhyphen"/>times <hi>Rundlets, Hogsheads,</hi> and <hi>Pipes</hi> brought very privately in the night time, and laid down in our Cellar, but whence they come we know not, for the <hi>Secret</hi> is kept as close as may be, only we see the <hi>Cyder-man</hi> come to our House and receive his Money, when he tips us a <hi>Decus</hi> or at least a <hi>George;</hi> but how our Master and yours manage matters after<g ref="char:EOLhyphen"/>wards, that is, how they be devil it, and brew it, I know not, we are kept in the
+<pb n="10" facs="tcp:33098:7"/>dark as to that, only as we flutter up and down, while we are fetching Wine for the several Companies in our House, we see plainly that there is some conjuration in hand.</p>
+            </sp>
+            <sp>
+               <speaker>Chip.</speaker>
+               <p>'Tis really so upon my honest word and credit: Now we who are the Agents have nothing of the mystery concealed from us; besides pray where's the harm of mixing <hi>Cyder</hi> and <hi>Wine</hi> together, 'tis neither unwholesom, nor untoothsom, for the <hi>Freeze</hi> lies a great while a softning and mellowing upon Wine-lees on purpose, and when it is very fine, in it go's.</p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>But if Gentlemen knew it, they'll be very unwilling to pay for <hi>Wine,</hi> and have <hi>Cyder</hi> topped upon them in the room of it, besides in reality it can nei<g ref="char:EOLhyphen"/>ther be so wholesom nor toothsom, for 'tis flatulent, mixes ill with, and makes but bad blood, (whence proceed near all Diseases, and we never care to drink any of it our selves.</p>
+            </sp>
+            <sp>
+               <speaker>Chip.</speaker>
+               <p>No nor we neither, for we know better things.</p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>However we swear and protest to all those that use our Houses, that there's nothing but <hi>Wine and Wine, Red Florence and Red Port,</hi> and sometimes
+<pb n="11" facs="tcp:33098:7"/>(especially to those that are fond of that Country Wine) a Dash of <hi>French,</hi> which we do now for the most part put in, to prepare their Palats, against an open Trade with <hi>France,</hi> tho that Kingdom will never recover the great Commerce they once had for many years together with us, nor will their Wines be drank in <hi>England</hi> so generally as they were, the <hi>Ports</hi> will carry the day, they have <hi>body,</hi> that is <hi>strength,</hi> and that now a days pleases, for our People love to have their Heads and Stomachs hot, as soon and as cheap as they can.</p>
+            </sp>
+            <sp>
+               <speaker>Chip.</speaker>
+               <p>Besides, I have heard some very great and curious <hi>Naturalists</hi> affirm, that the Gentlemen of <hi>Herefordshire,</hi> by fre<g ref="char:EOLhyphen"/>quent drinking of <hi>Cyder,</hi> (tho the best the Country produces, and which shou'd one wou'd think agree well with them being the product of their Native Coun<g ref="char:EOLhyphen"/>try) are exceedingly afflicted with the <hi>Gout</hi> in particular.</p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>If these <hi>Sparks,</hi> who as you say drink the best of the kind are plagued with that damned painful disease, what will become of those that swallow down so much of our delicate <hi>Freeze,</hi> which you hinted just now, is the poorest hun<g ref="char:EOLhyphen"/>griest sorriest sort of all.</p>
+            </sp>
+            <sp>
+               <pb n="12" facs="tcp:33098:8"/>
+               <speaker>Chip.</speaker>
+               <p>Why faith they'll be smoaked off with the <hi>Chiragra Podagra,</hi> and the rest of the Species, till it fly to the Stomach, and then it is mortal beyond all help; away they must pike then to the Devil and his Dominions, but Mum for that, not a word more of <hi>Cyder,</hi> least it shou'd spoil our trade; it must not get into the publick mouth; now but a few know it, and they don't mind it much, but as it comes in at one ear it goes out at t'other, tho if ever it should slip into Print, it wou'd expose your <hi>Knavery</hi> beyond re<g ref="char:EOLhyphen"/>trieve; nor cou'd the <hi>Matchless Impu<g ref="char:EOLhyphen"/>dence</hi> of the <hi>Vintners,</hi> or their true <hi>Copies</hi> the <hi>Drawers,</hi> be able to outface it, tho they'll both lye and swear tightly theres no such thing done or practised by them, or any of the Fraternity they know of; at least, if it be, 'tis only among the <hi>Hedge-Taverns, Bawdy House Taverns, Spring-Gardens,</hi> and <hi>such paultry places.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>I must confess a Brazen Face is so essentially necessary to our Profession, that 'tis a proper ingredient in our Com<g ref="char:EOLhyphen"/>position, and often helps us out at a dead lift; when we are a plunge, it does us signal service, but what can Oaths, Cruses, Imprecations, or the most front<g ref="char:EOLhyphen"/>less
+<pb n="13" facs="tcp:33098:8"/>Impudence say against <hi>Fact,</hi> for se<g ref="char:EOLhyphen"/>veral Gentlemen and others have caught our Masters in the very Cyder-mens Vaults, tho they slid away, and wou'd not have been seen if they cou'd have helpt it; but folks will take notice and talk, nay, I have, been pump'd about that matter, tho I stood buff, and denied that we ever mixt <hi>Freeze</hi> with any of our Wine, being indeed, as I said before, unacquainted with that mystery of Ini<g ref="char:EOLhyphen"/>quity, nay, or the very nick-name it goes by; and further, I have had it buzz'd in my Ears that not only the <hi>Scoun<g ref="char:EOLhyphen"/>drel-Houses,</hi> but all the <hi>Top Taverns</hi> in Town use abundance of that rascallystuff.</p>
+            </sp>
+            <sp>
+               <speaker>Chip.</speaker>
+               <p>Nothing more sure; for we <hi>Squires of the Tap</hi> are privy to all those matters, and tho we have an interest in it, yet by Cingo 'tis a shame that the World shou'd be so abus'd and imposed upon, their pockets pickt, (that is cheated of their Money which is the same thing) their health impaired, diseases entayl'd upon them, and Death it self as it were brought upon them before their time. In a word, we are become the most exquisite Brewers in the World (a pox of our skill that brings so much damage
+<pb n="14" facs="tcp:33098:9"/>to the publick, say those that know our tricks) the <hi>Spaniards</hi> are fools to us, and so are the <hi>Fr—ch</hi> too, tho their Vintners are complained of, <hi>for mingling Druggs with their Wine, that are prejudi<g ref="char:EOLhyphen"/>cial to the health of the Drinkers, for which they ought to be punished,</hi> as the Author of <hi>Colbert</hi>'s life has it, page 129. l. 2. I say, we have out-stript all, nay, and the very <hi>D—ch</hi> at <hi>Dort,</hi> tho they are clever fellows at it, and fell that for <hi>Rhenish-Wine,</hi> which as not a drop of that noble Tip in it, being only <hi>Ro<g ref="char:EOLhyphen"/>chel, Cogniak,</hi> or <hi>Nants White-Wine,</hi> rackt into a fresh Cask, strongly scented with Brimstone, Alum, Aquavitae, Nut<g ref="char:EOLhyphen"/>megs, Cloves, Coriander, and Anni<g ref="char:EOLhyphen"/>seed, into which they put the <hi>Parel,</hi> (whites of Eggs, Bay Salt, Milk and Conduit Water, beat together,) and af<g ref="char:EOLhyphen"/>ter that add a proportionable quantity of clarified Honey and course Sugar, and then to give it the delicate flavor of Rhenish, they whip in a decoction of <hi>Clary Seeds,</hi> which makes it pass for <hi>Rhe<g ref="char:EOLhyphen"/>nish</hi> in the <hi>Must,</hi> which they top for the most part on the foolish <hi>English;</hi> not much unlike to this, is the base practice of our <hi>Cyder-men,</hi> who sell that
+<pb n="15" facs="tcp:33098:9"/>for <hi>Syder,</hi> which has not a drop of the juice of the Apple, but is made of Tur<g ref="char:EOLhyphen"/>nips, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>They are da—'d R—es for do<g ref="char:EOLhyphen"/>ing so as well as the —</p>
+            </sp>
+            <sp>
+               <speaker>Chip.</speaker>
+               <p>The Vintners here are no better, for tho Wines are subject to <hi>Sicknesses,</hi> and <hi>ill Accidents,</hi> as <hi>Workings, Frettings, Pallings,</hi> and other <hi>Alterations,</hi> and may, nay, ought to be cured, helped, and skilfully managed, yet nothing shou'd be us'd that is prejudicial to Men's healths, as is <hi>Stum</hi> (which is the Flower of Fer<g ref="char:EOLhyphen"/>menting Wine, and us'd to recover de<g ref="char:EOLhyphen"/>cayed Wine by putting it into a new Agitation, making is drink pertly or brisk) <hi>offends the Head and Stomach, tor<g ref="char:EOLhyphen"/>ments the Guts, and cuases loosenesses;</hi> and yet nothing is more ordinary in use among them and the Coopers, who va<g ref="char:EOLhyphen"/>lue not the hurt it does to the Drinkers, if they can get off their Flat or Eager Wines; besides, how frequently do they draw unfine Wines, (and to conceal the cheat, they have invented thick curl'd glasses,) <hi>which generate the Scurvy, and ad<g ref="char:EOLhyphen"/>minister matter for the Stone and Gout.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>We are usually caseful to <hi>fine</hi> our Wines down as much as can possibly
+<pb n="16" facs="tcp:33098:10"/>be done, not only because they are un<g ref="char:EOLhyphen"/>wholesom, when the Lee flies thick about, but also because they are un<g ref="char:EOLhyphen"/>pleasaut to the pallat, and not so beau<g ref="char:EOLhyphen"/>tiful to the Eyes, tho not one in ten of our <hi>Chapps</hi> knows the difference, if it be but (thought) Wine, it goes down clea<g ref="char:EOLhyphen"/>verly, poor fools, they have not Wit enough to distinguish good from bad, except it be very plain indeed, dead or sowre. Nor need we care if all the World knew our Art in that particular of fineing Wines, for it is done with <hi>Isin<g ref="char:EOLhyphen"/>glass</hi> pluckt or cut in small pieces and dissolv'd, or <hi>Whites of Eggs,</hi> which will carry down a Floating or Flying Lee, but if it be very gross and earthy, we use powders of <hi>Alabaster, Caland-Flints, White Marble, Roch-Alum, &amp;c.</hi> which by their weight sink all before 'em.</p>
+            </sp>
+            <sp>
+               <speaker>Chip.</speaker>
+               <p>There's no harm in all this, nor in correcting the Wines that are <hi>Lumpish, Ropy, Qually, Rank, Eager, Prickt, &amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>No, but I'll tell you what I have heard a great <hi>Physitian</hi> say, that the <hi>Lime-stones</hi> which we slack and put into our Canaries to cure them of their sick<g ref="char:EOLhyphen"/>nesses, as Rankness, Eagerness, or Prick<g ref="char:EOLhyphen"/>ing,
+<pb n="17" facs="tcp:33098:10"/>
+                  <hi>is very injurious to hot and dry consti<g ref="char:EOLhyphen"/>tutions and meagre habits.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Chip.</speaker>
+               <p>That may be; but I am pretty sure there is no hurt in the <hi>Flanders-Tile</hi> and <hi>Roch-Allum</hi> we use to cure the <hi>Prick<g ref="char:EOLhyphen"/>ing</hi> in <hi>French Wines,</hi> nor of the juice of <hi>Slows</hi> or <hi>Bullice,</hi> of which we put some<g ref="char:EOLhyphen"/>times a gallon into a Hogshead of Cla<g ref="char:EOLhyphen"/>ret to recoves its briskness and picquant<g ref="char:EOLhyphen"/>ness, this makes it drink brisk and rough, which taste alone (formerly) pleas'd most, tho (now) almost worn out. Or what damage is it to the Drinkers of Rhenish Wines, that to cure them of their being prickt, we rack them into a clean and strong scented Cask, and add to the Wine a due proportion of <hi>clari<g ref="char:EOLhyphen"/>fied Honey,</hi> with <hi>Skim-milk</hi> beat together; or to meliorate the taste of <hi>hungry, thin, eager White-wines,</hi> we infuse a good quantity of <hi>Malaga Raisons,</hi> stoned and bruised; or to keep <hi>stinking Wines,</hi> we rack them from their old and corrupt Lee, and to give them a fine flavor, we hang bags of Spices, such as <hi>Ginger, Zedoary, Cloves, Cinnamon, Orrice, Cubebs,</hi> and other <hi>Aromaticks;</hi> or use <hi>Elder Flowers</hi> and <hi>tops of Lavender,</hi> to do the same thing.</p>
+            </sp>
+            <sp>
+               <pb n="18" facs="tcp:33098:11"/>
+               <speaker>Dash.</speaker>
+               <p>Thou art thy Arts Master I see, <hi>Chip,</hi> away with it, let's hear all thy Recipes, for as yet I find no fault with any of'em.</p>
+            </sp>
+            <sp>
+               <speaker>Chip.</speaker>
+               <p>No, nor can you with reasons, for what prejudice is it to the <hi>Sack<g ref="char:EOLhyphen"/>drinkers,</hi> if when those sorts of Wines begin to languish, we refresh them with a <hi>Cordial Syrup</hi> made of most generous <hi>Wines</hi> of <hi>Sugar</hi> and <hi>Spices.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>You say well.</p>
+            </sp>
+            <sp>
+               <speaker>Chip.</speaker>
+               <p>Or when <hi>Claret</hi> is inclin'd to a Consumption, if we throw it upon a new and richer <hi>Lee,</hi> and the shavings of <hi>Fir</hi>-wood; that the Spirits being re<g ref="char:EOLhyphen"/>cruited by the additional <hi>Lee,</hi> may be kept from exhaling, by the unctuous substance of the <hi>Turpentine.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>True, but I have often heard Gentlemen complain (after a Debauch of this Wine) of <hi>exceeding dulness and pain in their head,</hi> which indeed it in<g ref="char:EOLhyphen"/>fallibly produces, as also a swimming and dizziness, which is doing violence to Nature; nay, and I have known se<g ref="char:EOLhyphen"/>veral Companies leave our House upon it, tho poor Gentlemen tho knew not the Cause of those pain.</p>
+            </sp>
+            <sp>
+               <pb n="19" facs="tcp:33098:11"/>
+               <speaker>Chip.</speaker>
+               <p>Psha, this is nothing to what comes after, I have all this while been entertaining you only with the Niceties of our Skill and Art, in managing, pre<g ref="char:EOLhyphen"/>serving, and recovering of Wines, to make them pass off well, in which we use abundance of <hi>Stum, Sweets, Old Har<g ref="char:EOLhyphen"/>ry, Molosses, Sugar,</hi> and several <hi>Composi<g ref="char:EOLhyphen"/>tions,</hi> which I have hinted at before, as also <hi>Milk</hi> to whiten <hi>Sherry,</hi> (as we, phrase it) often mixing Brandy with that and other Wines to raise them up or quicken them when they are lan<g ref="char:EOLhyphen"/>guishing, as also to give them strength and vigor when they are <hi>thin, lean,</hi> or hungry, (as many Wines naturally are) nor is it a report, fancy, or invention that we put <hi>raw flesh</hi> into our <hi>Wines,</hi> for we do sometimes throw <hi>raw Beef</hi> in<g ref="char:EOLhyphen"/>to our fretting Wines, to let them feed upon; but all this is but a trifle to what I am going to impart, for this carries no great ill with it, for it pro<g ref="char:EOLhyphen"/>perly belongs to our profession to amend our Wines, tho it were to be wish'd that we used things less noxious in themselves, and not so destructive of men's Healths, which might be, if we were a little honester, less greedy of
+<pb n="20" facs="tcp:33098:12"/>gain, and getting vast Estates; I must confess I my self am asham'd at our beastly brewing, which now exceeds all reason and measure, out-doing all that was ever done before.</p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>War-hawk, prethee forbear firing, <hi>Chip,</hi> Udsheart we shall be ruin'd if ever these things come to the publick ear, thou begin'st Lad to bewray thy own nest, which the Proverb says, none but an ill Bird will do; these Sallies seem to be very vehement.</p>
+            </sp>
+            <sp>
+               <speaker>Chip.</speaker>
+               <p>Why faith I was going on too fast, inveighing against our <hi>Fraternity:</hi> But hush, I have done, there is no fear of this Dialogue of ours ever coming a<g ref="char:EOLhyphen"/>broad into the World, if a secret can be kept betwixt two, which the wise <hi>Italians</hi> assert cannot be, except one be away; however, I have faith in thee and so shall proceed.</p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>Do dear <hi>Chip,</hi> thou art an ho<g ref="char:EOLhyphen"/>nest sincere Fellow, which I fear very few of thy Trade are any more than of our.</p>
+            </sp>
+            <sp>
+               <speaker>Chip.</speaker>
+               <p>Egad I think you have guest well, but to the business in hand. I shall now present you with such a bundle of <hi>Knavish Tricks,</hi> and <hi>Dis-ingenious
+<pb n="21" facs="tcp:33098:12"/>Practices</hi> of <hi>Vintners, Wine-Coopers,</hi> and all Traders in Wine, both wholesale and retail, as well Top-Taerns, as Hedge, I say from the highest to the lowest, from the Glorious <hi>Planet</hi> behind the <hi>Exchange</hi> to the <hi>Vinyard</hi> in <hi>Low Lambeth,</hi> and from the Greatest Vaults or Maga<g ref="char:EOLhyphen"/>zines of Wine to the meanest sorriest Cellar or pennyworth of Wine-Cellar within the Bills of Mortality, nay, indeed throughout the whole Kingdom, that you must shut your Eyes for fear of being struck blind, and offer up your Prayers to <hi>Saturn,</hi> who governs the auricular nerves, lest you lose your hearing, for by all that's good and sacred, 'tis villa<g ref="char:EOLhyphen"/>nous and base.</p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>Out with it boy, without any more preamble or preface, I am agog to know it all.</p>
+            </sp>
+            <sp>
+               <speaker>Chip.</speaker>
+               <p>You do know the greatest part of it already, and have a thousand thou<g ref="char:EOLhyphen"/>sand times practised it, but yet some things are <hi>new</hi> to you; however, new and old, take 'em rough as they run. Wines in general are not only abominably Sophisti<g ref="char:EOLhyphen"/>cated, but lamentably metamorphiz'd; The very <hi>Rosycrucians</hi> themseves transmute not metals so much as you and we do Li<g ref="char:EOLhyphen"/>quors,
+<pb n="22" facs="tcp:33098:13"/>which by the way, you and <hi>I</hi> can't but own to be damn'd <hi>Roguery;</hi> it is much some severe Laws have not been enacted, to correct these Enormities, or at least the old ones put in Execution, and Inspectors or Supervisors erected to see that no such <hi>Cheats</hi> (for so indeed they are) shou'd be impos'd on the people, 'tis picking their Pockets, 'tis robbing them of their Money, and (which is yet more valuable) their Health, without which there can be no true Relish of any plea<g ref="char:EOLhyphen"/>sure in this World.</p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>Pray don't Philosophize, but keep to your <hi>Last</hi> and remember <hi>ne Su<g ref="char:EOLhyphen"/>tor, &amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Chip.</speaker>
+               <p>Well then, There is nothing more ord'nary than for great Quantities of <hi>Malago</hi> to be put into <hi>Canaries,</hi> (the greenest, hardest Wines of that kind admitting most;) <hi>French-Whites</hi> into <hi>Rhe<g ref="char:EOLhyphen"/>nish; Rhenish</hi> into <hi>Sacks; Sacks</hi> and <hi>Malmsies</hi> into <hi>Muskadels,</hi> (for which last <hi>Tents</hi> and <hi>Alicants</hi> are now sold every day;) <hi>Sherry</hi> for <hi>Lusenna Wine; Rochel</hi> or <hi>Nants Whites</hi> are transform'd into <hi>Claret</hi> by dashing them with <hi>Red; En<g ref="char:EOLhyphen"/>glish Wines</hi> (not only the juice of the <hi>Grape,</hi> but also <hi>Cherry, Gooseberry,</hi> and
+<pb n="23" facs="tcp:33098:13"/>
+                  <hi>Currants.</hi> Wine into <hi>Foreign; Malago</hi> and <hi>Sherry</hi> mix are sold for <hi>Choice Cana<g ref="char:EOLhyphen"/>ry; Red Florence, Red Port, Claret</hi> and <hi>Alicant</hi> all jumbled together, and sold either for <hi>Red Port</hi> single, or for <hi>Claret</hi> single, with many other Knaveries, (which to be thoroughly handled would require a Volume of bulk to write them into, or wou'd keep us Dialoguing a fortnight at least.)</p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>Why here's no great harm in all this.</p>
+            </sp>
+            <sp>
+               <speaker>Chip.</speaker>
+               <p>No more there wou'dn't, if there were nothing but Wine and Wine put together, tho sweet Mr <hi>Dash,</hi> if you please but to consider this point a little, before you transit so hastily, or pass it over, it is of more moment than you think for; you and I wou'd take it very from a Woollen Draper, if he shou'd sell us course <hi>English Serge</hi> or <hi>Drugget</hi> for fine <hi>Spanish Broad Cloaths;</hi> or a <hi>Mercer</hi> (tho they are Knavish enough) to sell us <hi>Plush</hi> for <hi>Velvet,</hi> which is no more than what you the <hi>Vintners,</hi> nay, and <hi>Coopers</hi> in the Town, do every hour in the day, and oftner if ye go into the Cellar to fetch up any Wine; you know as well as I the composition of Wine is manifold,
+<pb n="24" facs="tcp:33098:14"/>and you draw out of two or three several Casks for one quart or pint to accom<g ref="char:EOLhyphen"/>modate it to the palates of your Custo<g ref="char:EOLhyphen"/>mers; but that which is indeed abomi<g ref="char:EOLhyphen"/>nable beyond all tolleration, is the un<g ref="char:EOLhyphen"/>reasonable dose of <hi>Freeze,</hi> (poor sorry <hi>Cyder,</hi> as I hinted before) whipt into al<g ref="char:EOLhyphen"/>most all the Wine that you draw, so that to be serious 'tis rare that you draw, any Wine <hi>neat,</hi> tho you pretend to all Companies it is pure.</p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>But prethee what's that to a <hi>Co<g ref="char:EOLhyphen"/>rinthian</hi> Brother of ours, that lives not far from <hi>Ludgate Church,</hi> who boasted lately (when drunk as we now) to a certain Company of <hi>Foreigners,</hi> that he had drawn <hi>Champaign, Burgundy, Cha<g ref="char:EOLhyphen"/>blais,</hi> and other curious and costly Wines out of the very same Cask a hundred and a hundred times, adding, that no<g ref="char:EOLhyphen"/>thing was so easy, as to deceive Mens Palates, in Themselves various, uncer<g ref="char:EOLhyphen"/>tain, and often misled by fancy and humour; that a little supple-cringing, a few fair words, and a positive asserting it to be such or such Wine, neat and rare, carried it off cleverly.</p>
+            </sp>
+            <sp>
+               <speaker>Chip.</speaker>
+               <p>This was a <hi>Whipster</hi> i'faith; tho I have often heard Gentlemen complain
+<pb n="25" facs="tcp:33098:14"/>of the Damn'd Impudence of the <hi>Ma<g ref="char:EOLhyphen"/>sters</hi> and <hi>Drawers,</hi> who will hardly ever own any fault in their Wine, tho never so apparent or easy to be discovered, but will outface their Companies, that the Wine is fine when 'tis not; that it is brisk, when flat; that when it is in <hi>ferment</hi> or upon the <hi>fret,</hi> having a white froth round about the Glass, <hi>(being stumm'd a little too much)</hi> that 'tis only the first quart of a new pierc'd Pipe, and pierc'd on purpose for them, which is a meer <hi>Flam</hi> and Evasion; but all this and a great deal more they dare do, and can stand to briskly upon occasion.</p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>Lord! how prettily we top upon those <hi>Rum Culls</hi> called Gentlemen, who pretend to know every thing; a few Pickles to relish their Wine, or a few clean Lies to make them have a good opinion of it, engages 'em to whip down abundance, and so they are fairly cheated of their <hi>Health</hi> and their <hi>Money.</hi> Whereas if they but knew what they drank, and how we brew and trick them every manner of way, (as wise and as cunning as they fancy themselves) they'd e'en swallow less <hi>Beverage</hi> and more <hi>English Manufacture,</hi> sound honest
+<pb n="26" facs="tcp:33098:15"/>
+                  <hi>Belsh,</hi> which they wou'd soon find to agree better with their Constitutions, and prevent those Tormenting Twitches of <hi>Rheumatism</hi> and <hi>Gouts,</hi> the <hi>first</hi> with difficulty, that is, with letting out all their old and making all new blood, is after this manner cured, or patched up, but the <hi>last,</hi> alack! is without Remedy, nothing but Patience, the Mad-dog Medicine, avails any thing in those most cruciating Anguishes.</p>
+            </sp>
+            <sp>
+               <speaker>Chip.</speaker>
+               <p>'Tis much those dolorous Pains should not be their Monitors after so much Experience.</p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>Ah so it is; however, if the old Fellows, those true Soakers, left us, we should be supplied with fresh Setts of young Deboshees, who feeling nothing (at present) can fear nothing (for the Future) and who are so fond of our houses, that they cou'd live there (I think) for good and all: they melt the whole evening with us, till two, three, and (sometimes) four a clock in the morning; We have also <hi>Whisk</hi> and <hi>Swobbar-men</hi> that stick by us as long, and spend as liberally as petty Princes, being indeed very choice Custo<g ref="char:EOLhyphen"/>mers to us, during the whole, long, te<g ref="char:EOLhyphen"/>dious,
+<pb n="27" facs="tcp:33098:15"/>dull, (and often) very cold Win<g ref="char:EOLhyphen"/>ter; thus they divert themselves with good Fires, and strong Red Bub, led chiefly to this, and other Games, <hi>viz. Hazard, &amp;c.</hi> by an Itch of Covetous<g ref="char:EOLhyphen"/>ness, I say, by a greedy desire of Gain; whereas alas! we are the only Gainers: We are the true Gamesters, and the most biting <hi>Sharpers,</hi> for at the Long Run all the Money of the Company comes into our Clutches, tho they don't dream of this, which is yet true in Fact.</p>
+            </sp>
+            <sp>
+               <speaker>Chip.</speaker>
+               <p>That's most certain; but you have a thousand Tricks to amuse and deceive your <hi>Topers;</hi> Prithee let's hear a few of them, be as candid to me in that matter, as I have been to you in laying open the whole Secret and My<g ref="char:EOLhyphen"/>stery of the <hi>Brewing-Trade.</hi> By <hi>Bacchus,</hi> our Boozing Deity, I have not conceal'd the least point from you; I cou'd have spun out my discourse, and so have lengthned our <hi>Conference;</hi> but being a passionate Lover of <hi>Bre<g ref="char:EOLhyphen"/>vity,</hi> I summ'd up the whole in a few words.</p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>You have so, and I thank you for your great Freedom, and Open<g ref="char:EOLhyphen"/>ness, I'll make you the best Returns I
+<pb n="28" facs="tcp:33098:16"/>can, and tho my performances will fall very short of yours, that is, they are neither so curious nor considerable, yet you who are not so conversant with Gentlemen (I mean in attending them) and their numberless <hi>Maggots,</hi> I believe will be not a little diverted, with what I am about to communicate to you.</p>
+            </sp>
+            <sp>
+               <speaker>Chip.</speaker>
+               <p>Let's have it then old boy; however, do nothing rashly, here's a <hi>Brusher</hi> to ye of a Quart, I scorn to drink less; besides, if this cackling of ours goes on without wetting our Whistles now and then, I shall have but a Dull Account of Affairs I fear, we shall be but sorry Company neither; besides, our <hi>Booz</hi> will die upon our hands, we'll empty the t'other <hi>Shafts<g ref="char:EOLhyphen"/>bury;</hi> and please the Stars before we part; it costs us nothing, and the Devil's in it, if our Masters out of their <hi>ungodly gain</hi> can't afford to let us be drunk once a week at least; but now in spite of them, and their narrow sneaking humors, we'll bowl it away for half an hour more, seeing we are befriended by this blessed Opportunity, secur'd <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> all surprize, or can we
+<pb facs="tcp:33098:16"/>be over-heard, in this safe and private <hi>Store Vault,</hi> where we thus happily met, and so here's <hi>King</hi> William<hi>'s health, and safe Return.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>With all my heart honest <hi>True-penny,</hi> were it a peck of Claret, I'll take it off <hi>Supernaculum;</hi> you see brother <hi>Chip,</hi> I drink clean.</p>
+            </sp>
+            <sp>
+               <speaker>Chip.</speaker>
+               <p>Ay so thou dost, if there be an honest Fellow of the profession thou art one.</p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>Well now to perform my promise. Amongst thousands of Whims to be observ'd amongst the <hi>Red Fustian</hi> Drinkers, I shall present you a few of the most Ridiculous, and faith when Companies are gone, we <hi>Drawers,</hi> to<g ref="char:EOLhyphen"/>gether with our <hi>Pot-boys, Beer-boys, Porter,</hi> nay, and <hi>Cook maids,</hi> laugh aloud and long at those poor <hi>Animals</hi> that resort to our Houses, who are so easily imposed upon, and trickt by us, with<g ref="char:EOLhyphen"/>out so much as dreaming of it.</p>
+            </sp>
+            <sp>
+               <speaker>Chip.</speaker>
+               <p>No, no more they don't; but pray expedite.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:33098:17"/>
+               <speaker>Dash.</speaker>
+               <p>What a pretty notion have the <hi>Coxcombs</hi> that use our houses, that tipping the Drawer <hi>three-pence, six<g ref="char:EOLhyphen"/>pence,</hi> nay, or (as sometimes the foolish <hi>Extravagants</hi> do) a <hi>Shilling,</hi> procures them the <hi>better Wine;</hi> whereas, alas! we must draw such as our Master orders, for from him we have positive directions what to do; he appoints the Fatts, Butts, Pipes or Hogsheads that are next to be <hi>Can'd</hi> or pierc'd; we durst not for our ears do it before, or without his command, tho to please the <hi>Dul-pickles</hi> we tell them (and often too!) <hi>that it is a fresh piece of Wine, and that we pierc'd it just now, and on purpose to please them;</hi> and yet for these Un<g ref="char:EOLhyphen"/>feather'd Fools to talk of <hi>Interest</hi> in such a Drawer, or in such a <hi>Master,</hi> at such a <hi>Tavern,</hi> how silly, weak, nay, ridiculous is the very expression it self, as if they ought not to have good Wine for their Money, but must <hi>court, caress,</hi> and <hi>bribe</hi> the <hi>Slaves</hi> that attend on and live by them, and yet not have it neither.</p>
+            </sp>
+            <sp>
+               <pb n="31" facs="tcp:33098:17"/>
+               <speaker>Chip.</speaker>
+               <p>You say all in all, but yet if the <hi>Bubbles</hi> will be <hi>bit,</hi> who the pox can help it; besides, you have the pleasure of getting their Money, and laughing at them into the bargain, as you insinuated alate.</p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>Yes, there are some of us Drawers, that at the end of our Ap<g ref="char:EOLhyphen"/>prenticeship, have laid up a Cod of five or six hundred pounds, besides, which is a round Summ you'll say, what we vainly spend when we get abroad, for according to the example of our Wise Masters, we are the most extravagant Creatures in the Universe, and value no more the spending of twenty, thirty, or forty Shillings, than others do of so many pence.</p>
+            </sp>
+            <sp>
+               <speaker>Chip.</speaker>
+               <p>Very pretty fellows indeed, but however let's hear some more of the Shams upon Gentlemen.</p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>The Palats of our Customers have more different gusts than the Moon has Figures; one must (as he calls it) have a <hi>dry Wine,</hi> another a
+<pb n="32" facs="tcp:33098:18"/>
+                  <hi>rough Wine;</hi> t'other a <hi>smooth mellow Wine,</hi> but most agree in a very strong Wine; which we know how to strengthen, with Brandy, or Spirits, which are cheaper, and to lengthen it; for the Fame of one extraor<g ref="char:EOLhyphen"/>dinary high priz'd Pipe of Cana<g ref="char:EOLhyphen"/>ry (we buy) sells us twenty, and yet we perswade, 'tis all of that very Pipe; and so of Pontac (when in vogue) and of other Wines, (now) as <hi>Barcelona, Gallicia, Lisbon, &amp;c.</hi> And when one of the Company finds fault, usually the rest concur, then the <hi>Drawer</hi> is blamed, sometimes the <hi>Master</hi> in heat is called for, and upon com<g ref="char:EOLhyphen"/>plaint of the <hi>Bub</hi> being bad, I'll please ye I warrant ye Gentlemen, says he, I'll draw a quart my self, (as if that was such a mighty Favour by the way) down he goes to the Bar, and sends any of the Drawers to such a Cask, and bids him give it <hi>a dash</hi> of such another, which is <hi>Freeze;</hi> up he brings it to him, who gives it a good thump on ground, to brisken it a little, but stays till the ferment is over, and having staid pretty long, to possess the
+<pb n="33" facs="tcp:33098:18"/>Fops that he pierc'd a fresh Pipe for them, (as he to be sure tells them) up Stairs he moyes, and with Hat under Arm, and an awkward bow fills out a glass himself, Here's Wine, Gentlemen, says he, I defy all the Town to draw such; they all having drank How do ye like it my Masters? adds he; it is answered, <hi>Nemine Contradicente,</hi> incomparable Wine indeed! this is something like Wine. Nay, and very often the same indi<g ref="char:EOLhyphen"/>vidual quart or pint of Wine, that is dislik'd, and pretended to be changed, is brought up again, with<g ref="char:EOLhyphen"/>out addition or diminution; nor in the Summer is it unusual for us to whip in a good glass of Spring Water, which cools and refreshes the Wine, and makes it more
+<pb n="34" facs="tcp:33098:19"/>pleasing upon the palat, besides a thousand other petty tricks, which I have hardly time to run over; but for the <hi>Grand Cheats</hi> and <hi>Abominable Abuses,</hi> which you chearfully communicated to me, and for the <hi>lesser Deceits</hi> and <hi>flights of hands</hi> I have acquainted you with, I suppose we shall both agree that there be no Words made on them, but that what has past between us at this Interview, may be for ever buried in our Breasts; for if the World were informed of our Wicked Acts, and Perni<g ref="char:EOLhyphen"/>cious Practices, in adulterating and Sophisticating our Wines, and even in selling that (every day) for Wine, which is not Wine, surely they would abandon our houses, and cease defiling
+<pb n="35" facs="tcp:33098:19"/>their bloud with our accursed Mixtures, and so dear <hi>Chip,</hi> I shall conclude this Conference with a <hi>Facer</hi> to you, to the Prosperity of <hi>England,</hi> and to the retrieving of our Trade and Commerce.</p>
+            </sp>
+            <sp>
+               <speaker>Chip.</speaker>
+               <p>Done, Mine's off, and now Farewel most heartily.</p>
+            </sp>
+            <sp>
+               <speaker>Dash.</speaker>
+               <p>True brother <hi>Soker,</hi> I wish ye <hi>bonas noches.</hi>
+               </p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
